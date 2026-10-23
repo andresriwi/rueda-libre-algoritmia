@@ -1,4 +1,4 @@
-lgoritmo: Proceso de alquiler de bicicleta en Rueda Libre (versión 1)
+Algoritmo: Proceso de alquiler de bicicleta en Rueda Libre (versión 1)
 1. Elige la bicicleta.
 2. Presenta el documento de identidad.
 3. Selecciona la tarifa, por horas, día completo o mensual.
